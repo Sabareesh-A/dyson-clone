@@ -311,3 +311,21 @@ ul a{
 
 
 }
+.sac{
+    margin-top: 20px;
+    height: 500px;
+    background-image:url(images/Screenshot\ 2025-07-15\ at\ 1.43.24\ AM.png);
+    background-size: cover;
+}
+.sac1{
+    
+    height: 500px;
+    background-image:url(images/Screenshot\ 2025-07-15\ at\ 1.47.13\ AM.png);
+    background-size: cover;
+}
+.sac2{
+
+    height: 500px;
+    background-image:url(images/Screenshot\ 2025-07-15\ at\ 1.47.37\ AM.png);
+    background-size: cover;
+}
